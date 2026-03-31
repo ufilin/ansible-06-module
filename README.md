@@ -6,7 +6,6 @@
 
 - `yandex_cloud_elk/` - основная коллекция
   - `plugins/modules/my_own_module.py` - модуль для создания файлов
-  - `roles/my_file_role/` - пример роли, использующей модуль
 
 ## Установка
 
