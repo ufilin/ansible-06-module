@@ -1,0 +1,12 @@
+namespace: ufilin_collection
+name: yandex_cloud_elk
+version: 1.0.0
+readme: README.md
+authors:
+  - Your Name <your.email@example.com>
+description: Collection with custom file module
+license:
+  - GPL-3.0-only
+tags:
+  - file
+  - module

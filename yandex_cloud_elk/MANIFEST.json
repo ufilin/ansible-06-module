@@ -1,0 +1,33 @@
+{
+ "collection_info": {
+  "namespace": "ufilin_collection",
+  "name": "yandex_cloud_elk",
+  "version": "1.0.0",
+  "authors": [
+   "Ufilin"
+  ],
+  "readme": "README.md",
+  "tags": [
+   "file",
+   "module"
+  ],
+  "description": "Collection with custom file module",
+  "license": [
+   "GPL-3.0-only"
+  ],
+  "license_file": null,
+  "dependencies": {},
+  "repository": null,
+  "documentation": null,
+  "homepage": null,
+  "issues": null
+ },
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "ftype": "file",
+  "chksum_type": "sha256",
+  "chksum_sha256": "c2e4708eb8d5ebca0e297209a9d3c6d45bea53a332e51846f7ba01602e26bd89",
+  "format": 1
+ },
+ "format": 1
+}
